@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am third year student at University of Zagreb Faculty of Electrical Engineering and Computing
-- I’m currently learning Python, java, C, C++, C#, R, HTML, CSS, JavaScript and SQL. 
+- I’m currently learning Python, java, C, C++, C#, R, HTML, CSS, JavaScript, ROS, Dart and SQL. 
   As part of Laboratory for Robotics and Intelligent Control Systems I am working on 
   pilotless aircraft and an app for controlling such aircrafts through Bluetooth protocols.
   Within college studies I made:
