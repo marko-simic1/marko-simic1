@@ -9,6 +9,6 @@
   2. C# and SQL interactive Web app for project management within company
   3. Backend and SQL for accounting Web app
   and lot of other projects...
-- Get to know more about me in my CV or contact me on marko.simic2@fer.hr
+- Get to know more about me on markosimic.info or contact me on marko.simic2@fer.hr
 
 
